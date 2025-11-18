@@ -1,4 +1,4 @@
-package factory
+package factory_method
 
 type ICar interface {
 	setName(name string)
