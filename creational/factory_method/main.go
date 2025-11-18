@@ -1,8 +1,8 @@
-package factory
+package factory_method
 
 import "fmt"
 
-func RunFactory() {
+func RunFactoryMethod() {
 	swift, _ := getCar("swift")
 	brio, _ := getCar("brio")
 
